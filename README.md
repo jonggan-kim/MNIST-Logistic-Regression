@@ -1,10 +1,10 @@
 ## MNIST-Logistic-Regression
 
-Import libraries
-Import MNIST example data from tensorflow.examples.tutorials.mnist  
-Set training data and test data and load them 
-Create Logistic Regression model using tensorflow
-Define prediction and accuracy
+Import libraries <br>
+Import MNIST example data from tensorflow.examples.tutorials.mnist  <br>
+Set training data and test data and load them <br>
+Create Logistic Regression model using tensorflow <br>
+Define prediction and accuracy <br>
 Train the model and get the train accuracy and test accuracy
 
 
