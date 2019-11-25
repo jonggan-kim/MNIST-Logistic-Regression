@@ -7,8 +7,8 @@ Create Logistic Regression model using tensorflow <br>
 Define prediction and accuracy <br>
 Train the model and get the train accuracy and test accuracy
 
-<img src = "images/img1">
-<img src = "images/img2">
-<img src = "images/img3">
+<img src="images/img1">
+<img src="images/img2">
+<img src="images/img3">
 
 
